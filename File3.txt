@@ -1,0 +1,1 @@
+This is my third file for MyProject1 repository.
